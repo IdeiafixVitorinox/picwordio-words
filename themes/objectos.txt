@@ -1,5 +1,147 @@
-Mesa
+Copo
+Prato
+Colher
+Garfo
+Faca
+Panela
+Tacho
+Chaleira
+Garrafa
 Cadeira
+Mesa
+Sofa
+Cama
+Almofada
+Cobertor
+Toalha
+Escova
+Pente
+Sabonete
+Shampoo
 Telemovel
 Computador
+Teclado
+Rato
+Televisao
+Comando
+Livro
+Caderno
+Lapis
 Caneta
+Borracha
+Mochila
+Relogio
+Chave
+Carteira
+Moeda
+Nota
+Lanterna
+Vassoura
+Pá
+Balde
+Caixa
+Saco
+Garrafa De Agua
+Oculos
+Chapeu
+Sapato
+Botas
+Camisa
+Janela  
+Porta  
+Chaveiro  
+Candeeiro  
+Abajur  
+Interruptor  
+Tomada  
+Cortina  
+Tapete  
+Ventoinha  
+Aquecedor  
+Aspirador  
+Balanca  
+Escova De Dentes  
+Pasta De Dentes  
+Saboneteira  
+Esponja  
+Cesto  
+Cabide  
+Gaveta  
+Armario  
+Roupeiro  
+Telecomando  
+Coluna  
+Radio  
+Ventoinha De Mao  
+Guarda Chuva  
+Mala  
+Mala De Mao  
+Carrinho  
+Carrinho De Compras  
+Escadote  
+Martelo  
+Chave De Fendas  
+Alicate  
+Serrote  
+Prego  
+Parafuso  
+Fita Cola  
+Tesoura  
+Cola  
+Pincel  
+Tinta  
+Balde De Tinta  
+Regador  
+Vaso  
+Mangueira  
+Pá Pequena  
+Sacho
+Prateleira  
+Estante  
+Quadro  
+Espelho  
+Relogio De Parede  
+Calendario  
+Mapa  
+Globo  
+Cesto De Roupa  
+Baldes De Lixo  
+Aspirador  
+Ferro De Engomar  
+Tábua De Passar  
+Ventoinha  
+Aquecedor  
+Extintor  
+Termometro  
+Garrafa Termica  
+Copo Plastico  
+Saco De Papel  
+Saco Plastico  
+Envelope  
+Caixa De Correio  
+Fita Metros  
+Nivel  
+Broca  
+Chave Inglesa  
+Chave Allen  
+Escova De Aco  
+Pano  
+Esfregona  
+Detergente  
+Sabao  
+Balde Pequeno  
+Garrafa Spray  
+Pincel Largo  
+Rolo De Pintura  
+Lupa  
+Binoculos  
+Apito  
+Bola  
+Raquete  
+Capacete  
+Luvas  
+Mascara  
+Garrafa De Gas  
+Cadeado  
+Corrente  
+Sino
